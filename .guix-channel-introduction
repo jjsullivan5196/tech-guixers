@@ -1,0 +1,9 @@
+;; -*- mode: scheme; -*-
+(channel
+ (name 'tech-guixers)
+ (url "https://github.com/jjsullivan5196/tech-guixers.git")
+ (introduction
+  (make-channel-introduction
+   "19297f5cc6995efdbe035be7bc6ef856e32f868e"
+   (openpgp-fingerprint
+    "0D85 6F27 E9C9 9C13 680D  5F77 B337 71C4 9318 D9F0"))))
